@@ -1,0 +1,26 @@
+body {
+    padding: 100px 100px;
+    background-image: url(sun1.jpg);
+   background-size: cover;
+}
+h1{
+    text-align: center;
+}
+#container {
+    text-align: center;
+    background-color: transparent;
+    padding: 60px;
+    border: 2px dashed black;
+}
+#inputDiv {
+    display: inline-block;
+}
+.inp {
+    padding: 10px 20px;
+    margin: 15px;
+    font-size: 30px;
+    text-align: center;
+}
+label {
+    font-size: 25px;
+}
